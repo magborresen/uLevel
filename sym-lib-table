@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Battery_tester_sym_lib)(type Legacy)(uri "C:/Users/mabo/Documents/Viking Elabs/Battery Tester/Battery Tester/Battery_tester_sym_lib.lib")(options "")(descr ""))
+  (lib (name µLevel)(type Legacy)(uri ${KIPRJMOD}/µLevel.lib)(options "")(descr ""))
+  (lib (name µLevel_Gauge)(type Legacy)(uri ${KIPRJMOD}/µLevel_Gauge.lib)(options "")(descr ""))
+)
