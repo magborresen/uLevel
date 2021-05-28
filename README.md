@@ -1,5 +1,8 @@
 # uLevel
-Is a PCB strain gauge for 3D printer bed leveling
+
+The project is currently on hold since I sold my HyperCube and bought an Ender-3 instead. I might pick it back up at some point.
+
+The µLevel a PCB strain gauge for 3D printer bed leveling.
 
 It was originally designed for the HyperCube 3D printer, but is supposed to be able to mount on other printers. It is mounted on to of the hotend assembly with the filament/PTFE tube going through the middle of the pcb. This should ensure even pressure from the hotend assembly onto the PCB. 
 
